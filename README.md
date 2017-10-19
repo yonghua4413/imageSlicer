@@ -1,7 +1,5 @@
-# imageSlicer 图片切割 长图切割
-
-需要开启gd库
-php5.5
+# imageSlicer 
+图片切割 长图切割 需要开启gd库php5.5
 
 #用法
 require '/Slicer.php';
