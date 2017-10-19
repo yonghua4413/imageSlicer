@@ -1,4 +1,4 @@
-# imageSlicer
+# imageSlicer 图片切割 长图切割
 
 需要开启gd库
 php5.5
